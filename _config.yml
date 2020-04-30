@@ -99,5 +99,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:dubeno/dubeno.github.io.git
+  repo: git@github.com:dubeno/dubeno.github.io
   branch: master
