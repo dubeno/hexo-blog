@@ -13,8 +13,9 @@ java.util.concurrent包中BlockingQueue是一个可以线程安全往里面存�
 ##### BlockingQueue 用法
 
 ​	BlockingQueue通常用来生成另一个线程消费的对象，请看下图。
-
-![BlockingQueue](2018/11/04/BlockingQueue/blocking-queue.png)
+<span><div style="text-align: center;">
+{% asset_img blocking-queue.png one %}
+</div></span>
 
 一个BlockingQueue，一个生产线程放入其中，一个消费线程从中获取。
 

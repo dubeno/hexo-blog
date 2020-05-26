@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 互联网斜杠青年
-subtitle: '斜杠青年'
-description: '高并发,队列,秒杀架构，消息队列，Spring Boot'
-keywords: '高并发,队列,秒杀架构，消息队列，Spring Boot'
-author: 罗平
+title: 增长黑客
+subtitle: 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生
+description: 'graphql,prisma,增长黑客,growing hacker，高并发,队列,秒杀架构，消息队列，Spring Boot'
+keywords: 'graphql,prisma,增长黑客,growing hacker,高并发,队列,秒杀架构，消息队列，Spring Boot'
+author: robin
 language:  en
 timezone:  ''
 
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
